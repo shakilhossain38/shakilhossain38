@@ -4,7 +4,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="50%"/></p>
 
 I am Md. Shakil Hossen😃. I am from Dahaka, Bangladesh and currently I am working as Mobile App Developer at SovWare.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+Developer+with+3%2B+Years+Experience;Passionate+about+Algorithmic+Trading)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+Developer+with+2%2B+Years+Experience;)](https://git.io/typing-svg)
 ## Contact me
 <p align='start'>
 <a href="mailto:shakilhossain38@gmail.com">
