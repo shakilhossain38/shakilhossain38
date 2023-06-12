@@ -1,9 +1,9 @@
-<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 developers! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="50%"/></p>
 
-I am Md. Shakil Hossen😃. I am from Dahaka, Bangladesh and currently I am working as Mobile App Developer at SovWare.
+I am Md. Shakil Hossen😃. I am from Dhaka, Bangladesh and currently I am working as Mobile App Developer at SovWare.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+Developer+with+2%2B+Years+Experience;)](https://git.io/typing-svg)
 ## Contact me
 <p align='start'>
