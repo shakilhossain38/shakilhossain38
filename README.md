@@ -21,7 +21,6 @@ I am Md. Shakil Hossen😃. I am from Dhaka, Bangladesh and currently I am worki
 </a>&nbsp;&nbsp;
 
  ## Github Stats
-![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=shakilhossain38&hide=["issues"]&show_icons=true)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilhossain38&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/shakilhossain38/github-readme-stats) 
  ##  Contribution Graph
