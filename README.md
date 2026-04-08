@@ -3,7 +3,7 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="50%"/></p>
 
-I am Md. Shakil Hossen😃. I am from Dhaka, Bangladesh and currently I am working as Mobile App Developer at SovWare.
+I’m Md. Shakil Hossen, a Mobile App Developer from Dhaka, Bangladesh, currently contributing to innovative mobile solutions at SovWare.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Mobile+App+Developer;Flutter+Developer+with+5%2B+Years+Experience;)](https://git.io/typing-svg)
 ## Contact me
 <p align='start'>
