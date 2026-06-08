@@ -3,8 +3,10 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="50%"/></p>
 
-I’m Md. Shakil Hossen, a Mobile App Developer from Dhaka, Bangladesh, currently contributing to innovative mobile solutions at SovWare.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=350&lines=Mobile+App+Developer;Flutter+Developer+with+5%2B+Years+Experience;)](https://git.io/typing-svg)
+I'm **Md. Shakil Hossen**, a Mobile App Developer from Dhaka, Bangladesh, currently contributing to innovative mobile solutions at SovWare.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&vCenter=true&height=25&lines=Mobile+App+Developer;Flutter+Developer+with+5%2B+Years+Experience" />
+
 ## Contact me
 <p align='start'>
 <a href="mailto:shakilhossain38@gmail.com">
