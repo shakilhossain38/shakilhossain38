@@ -31,6 +31,7 @@ I build mobile apps with **Flutter and Dart**, with more than five years of expe
 ### 📊 GitHub activity
 
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakilhossain38&theme=github_dark" alt="Top languages"></p>
+<p><img src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=shakilhossain38&theme=default" alt="GitHub streak stats showing total contributions, current streak, and longest streak"></p>
 <p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakilhossain38&theme=github_dark" alt="Contribution activity"></p>
 
 ---
