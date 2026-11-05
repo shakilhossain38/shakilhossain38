@@ -2,7 +2,7 @@
   <h1>Hi, I'm Shakil 👋</h1>
   <h3>Flutter developer building mobile experiences</h3>
   <p>📍 Dhaka, Bangladesh &nbsp;·&nbsp; 💼 Mobile App Developer at <a href="https://github.com/sovware">SovWare</a></p>
-  <p><a href="mailto:shakilhossain38@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://www.linkedin.com/in/shakilhossain38/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://github.com/shakilhossain38?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"></a></p>
+  <p><a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=shakilhossain38%40gmail.com" title="Compose email in Gmail"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://www.linkedin.com/in/shakilhossain38/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="https://github.com/shakilhossain38?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20work-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work"></a></p>
 </div>
 
 ---
