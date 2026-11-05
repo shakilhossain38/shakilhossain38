@@ -24,7 +24,7 @@ I'm **Md. Shakil Hossen**, a Mobile App Developer from Dhaka, Bangladesh, curren
 
  ## Github Stats
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakilhossain38&layout=compact&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/shakilhossain38/github-readme-stats) 
+ [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakilhossain38&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
  ##  Contribution Graph
 
 <a href="https://github.com/shakilhossain38">
