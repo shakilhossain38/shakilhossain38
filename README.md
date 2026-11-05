@@ -31,7 +31,8 @@ I'm **Md. Shakil Hossen**, a Mobile App Developer from Dhaka, Bangladesh, curren
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakilhossain38&theme=github_dark"/>
   </a>
 
-## Followers
+## Views and Followers
 <p align="start">
+<img src="https://komarev.com/ghpvc/?username=shakilhossain38">&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/shakilhossain38?tab=followers"><img src="https://img.shields.io/github/followers/shakilhossain38?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
